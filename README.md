@@ -10,7 +10,7 @@ Requirements:
 Install instructions:
 
 1.  $ git clone
-2.  $ cd flask_bone.py
+2.  $ cd flask_bone
 3.  $ virtualenv venv
 4.  $ . venv/bin/activate
 5.  $ pip install flask
